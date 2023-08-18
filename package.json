@@ -21,7 +21,7 @@
     "sass": "^1.28.0",
     "tailwind-rn": "^2.0.1",
     "react-native-gesture-handler": "~1.7.0",
-    "react-native-reanimated": "~1.13.0",
+    "react-native-reanimated": "~2.10.0",
     "react-native-screens": "~2.10.1",
     "react-native-safe-area-context": "3.1.4",
     "@react-native-community/masked-view": "0.1.10"
